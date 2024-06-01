@@ -16,10 +16,10 @@ A simple HTML page about me and my hobby.
 - [x] Create Readme
 - [x] Create index.html
 - [x] Update README author
-- [ ] Update Home page (index.html with my info)
-- [ ] Create gallery.html
-- [ ] Add 3 pictures
-- [ ] Create about.html
+- [x] Update Home page (index.html with my info)
+- [x] Create gallery.html
+- [x] Add 3 pictures
+- [x] Create about.html
 - [ ] Create 2 lists
 - [ ] Add a tags to link the pages together
 - [ ] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
